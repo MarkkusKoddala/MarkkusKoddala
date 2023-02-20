@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Markkus from Estonia and right now I am working to become a software engineer. I am studying Computer Science in the University of Tartu.
+
 <!--
 **MarkkusKoddala/MarkkusKoddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
