@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Markkus 🤙<width="30px"></h1>
+<h1 align="left">Hello! I'm Markkus :wave:<width="30px"></h1>
 
 I am Markkus from Estonia and right now I am studying to become a software engineer. I really love what I am doing right now and I want to share some project and ideas with you. On this site you will fine some additional information about me.
 
@@ -45,6 +45,6 @@ availableForHire: true
  
 
 
-
+  <h2 align = "center" > :point_down: You can find my projects! :point_down: </h2>
 
 
