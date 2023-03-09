@@ -4,13 +4,13 @@ I am Markkus from Estonia and right now I am studying to become a software engin
 
 <h2 align="center">Connect with me:<width="30px"></h2>
 <p align="center"><a target="_blank" href="www.linkedin.com/in/markkus-koddala">
-<img src="https://img.shields.io/badge/-MarkkusKoddala-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/markkus-koddala" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/-MarkkusKoddala-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markkus-koddala" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://www.instagram.com/markkusk/">
 <img src="https://img.shields.io/badge/-MarkkusKoddala-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/markkusk/" alt="Instagram Badge">
 </a>
 <a target="_blank" href="https://behance.net/sidbelbase/">
-<img src="https://img.shields.io/badge/MarkkusKoddala-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/markkus.koddala"
+<img src="https://img.shields.io/badge/-MarkkusKoddala-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/markkus.koddala"
 alt="Facebook Badge">
 </a></p>
 <br>
